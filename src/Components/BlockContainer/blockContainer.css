@@ -1,0 +1,14 @@
+.blockContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 15px 8px 22px;
+  /* border: solid; */
+  align-items: center;
+}
+
+.textBox {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18.2px;
+  font-family: Montserrat;
+}
